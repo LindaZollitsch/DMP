@@ -407,12 +407,11 @@ DFG form 54.01 EN: https://www.dfg.de/formulare/54_01/54_01_en.pdf
 BMBF: Individual Funding Criteria EC: Aktionsplan FD german only
 
 
-
 Horizon Europe
+[HE Programme Guide, S.40](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf)
 
-HE Programme Guide, S.40
 
-EC: Open Research Europe. Data Guidelines
+[EC: Open Research Europe. Data Guidelines](https://open-research-europe.ec.europa.eu/for-authors/data-guidelines)
 
 ***********
 
@@ -424,13 +423,13 @@ EC: Open Research Europe. Data Guidelines
 
 **Kiel University:**
 
-* Guideline on the handling of research data
+* [Guideline on the handling of research data](https://www.praesidium.uni-kiel.de/de/dokumente/leitlinie-zum-umgang-mit-forschungsdaten-guideline-on-research-data-management-english)
 
-* Guideline Good Scientific Practice
+* [Guideline Good Scientific Practice](https://www.uni-kiel.de/fileadmin/user_upload/forschung/integritaet-ethik/downloads/cau-guidelines-good-scientific-practice.pdf)
 
-* Example for a project specific guideline: CRC 1461 – Research Data Management Guide
+* [Example for a project specific guideline: CRC 1461 – Research Data Management Guide](https://www.tf.uni-kiel.de/crc1461rdm/)
 
-* Subject specific guidelines: DFG-overview
+* [Subject specific guidelines: DFG-overview](https://www.dfg.de/en/research_funding/proposal_review_decision/applicants/research_data/index.html)
 
 ***********
 
@@ -439,31 +438,31 @@ EC: Open Research Europe. Data Guidelines
 
 **DFG:**
 
-* Guidelines for Safeguarding Good Research Practice. Code of Conduct.
+* [Guidelines for Safeguarding Good Research Practice. Code of Conduct.](http://doi.org/10.5281/zenodo.3923602)
 
-* Guidelines on the Handling of Research Data
+* [Guidelines on the Handling of Research Data](https://www.dfg.de/en/research_funding/proposal_review_decision/applicants/research_data/index.html)
 
-* Subject-Specific Recommendations (DFG-overview)
+* [Subject-Specific Recommendations (DFG-overview)](https://www.dfg.de/en/research_funding/proposal_review_decision/applicants/research_data/index.html#anker62237395)
 
 ***********
 
 ### Guidelines (International)
 
 
-* European Code of Conduct for Research Integrity
+* [European Code of Conduct for Research Integrity](https://allea.org/wp-content/uploads/2023/06/European-Code-of-Conduct-Revised-Edition-2023.pdf)
 
 
 
 * Research Integrity Statements
 
-* Cape-Town Statement
+* [Cape-Town Statement](https://www.wcrif.org/guidance/cape-town-statement)
 
-* Singapore Statement 
+* [Singapore Statement](https://www.wcrif.org/statement)
 
 
 ### FAIR Principles
 
-<img src="/DMP/images/fair.png">
+<img src="/images/fair.png">
 
 FAIR concentrates on how to prepare data in a sustainable way that it can be found and used by others. 
 
@@ -483,7 +482,7 @@ FAIR-checklist: Jones, Sarah, & Grootveld, Marjan. (2017, November). How FAIR ar
 
 ## How? Templates & Tools
 
-<img src="/DMP/images/dmp-image.png">
+<img src="/images/dmp-image.png">
 
 ### DMP templates
 
@@ -492,15 +491,15 @@ FAIR-checklist: Jones, Sarah, & Grootveld, Marjan. (2017, November). How FAIR ar
 
 **Templates**
 
-* CAU-template
+* [CAU-template](https://www.datamanagement.uni-kiel.de/de/service/materialien)
 
-* DFG Checklist (for section 2.4 of the proposal)
+* [DFG Checklist (for section 2.4 of the proposal)](https://www.dfg.de/download/pdf/foerderung/grundlagen_dfg_foerderung/forschungsdaten/forschungsdaten_checkliste_en.pdf)
 
-* Volkswagen Stiftung Basic DMP (rtf-File)
+* [Volkswagen Stiftung Basic DMP (rtf-File)](https://www.volkswagenstiftung.de/sites/default/files/documents/2022-04_basic_data_management_plan.rtf)
 
-* EU Horizon Europe-Template
+* [EU Horizon Europe-Template](https://fdm.uni-koeln.de/sites/FDM-UzK/Templates/data-management-plan-template_he_en-2.docx)
 
-* Science Europe Template
+* [Science Europe Template](https://www.scienceeurope.org/our-priorities/research-data/research-data-management/)
 
 ***********
 
@@ -508,11 +507,11 @@ FAIR-checklist: Jones, Sarah, & Grootveld, Marjan. (2017, November). How FAIR ar
 ***********
 **Samples**
 
-* DFG Sample (CMS / HU Berlin)
+* [DFG Sample (CMS / HU Berlin)](https://cms.hu-berlin.de/de/ueberblick/projekte/dataman/muster-dmp-dfg)
 
-* BMBF Sample (CMS / HU Berlin)
+* [BMBF Sample (CMS / HU Berlin)](https://www.cms.hu-berlin.de/de/dl/dataman/muster-dmp-bmbf)
 
-* Zenodo published DMPs (uncurated list)
+* [Zenodo published DMPs (uncurated list)](https://zenodo.org/search?q=DMP&f=subject:DMP&l=list&p=1&s=10&sort=bestmatch)
 
 ***********
 
@@ -521,11 +520,11 @@ FAIR-checklist: Jones, Sarah, & Grootveld, Marjan. (2017, November). How FAIR ar
 
 **Based on the Research Data Lifecycle**
 
-<img src="/DMP/images/rdm-lifecycle.png" alt="infrastructure" width="200" align="right">
+<img src="/images/rdm-lifecycle.png" alt="infrastructure" width="200" align="right">
 
-* DFG Checklist
+* [DFG Checklist](https://www.dfg.de/download/pdf/foerderung/grundlagen_dfg_foerderung/forschungsdaten/forschungsdaten_checkliste_de.pdf)
 
-* Science Europe Template (engl.)
+* [Science Europe Template (engl.)](https://www.scienceeurope.org/our-priorities/research-data/research-data-management/)
 
 ***********
 
@@ -533,30 +532,30 @@ FAIR-checklist: Jones, Sarah, & Grootveld, Marjan. (2017, November). How FAIR ar
 ***********
 **Based on the FAIR-Principles**
 
-<img src="/DMP/images/fair.png" alt="infrastructure" width="200" align="right">
+<img src="/images/fair.png" alt="infrastructure" width="200" align="right">
 
-* EU Horizon Europe-Template
+* [EU Horizon Europe-Template](https://fdm.uni-koeln.de/sites/FDM-UzK/Templates/data-management-plan-template_he_en-2.docx)
 
 ***********
 
 {{5}}
 ***********
 
-<img src="/DMP/images/cau-template.png" alt="infrastructure" width="200" align="right">
+<img src="/images/cau-template.png" alt="infrastructure" width="200" align="right">
 
 ***********
 
 {{6}}
 ***********
 
-<img src="/DMP/images/science-europe.jpg" alt="infrastructure" width="200" align="right">
+<img src="/images/science-europe.jpg" alt="infrastructure" width="200" align="right">
 
 ***********
 
 {{7}}
 ***********
 
-<img src="/DMP/images/horizon-europe.png" alt="infrastructure" width="200" align="right">
+<img src="/images/horizon-europe.png" alt="infrastructure" width="200" align="right">
 
 ***********
 
@@ -566,11 +565,11 @@ FAIR-checklist: Jones, Sarah, & Grootveld, Marjan. (2017, November). How FAIR ar
 ***********
 **Generic DMP-Tools**
 
-Research Data Management Organizer (RDMO) - DFG-funded
+[Research Data Management Organizer (RDMO) - DFG-funded](https://rdmorganiser.github.io/)
 
-DMPonline - Digital Curation Centre (DDC), hosted by University of Edinburgh
+[DMPonline - Digital Curation Centre (DDC), hosted by University of Edinburgh](https://dmponline.dcc.ac.uk/)
 
-DMP Tool - California Digital Library
+[DMP Tool - California Digital Library](https://dmptool.org/)
 
 ARGOS
 
@@ -580,15 +579,15 @@ ARGOS
 ***********
 **Subject-specific DMP tools**
 
-* biodiversity and environmental research: GFBio DMP-Tool
+* biodiversity and environmental research: [GFBio DMP-Tool](https://www.gfbio.org/plan)
 
-* humanities & social sciences / language data: CLARIN-D Wizard
+* humanities & social sciences / language data: [CLARIN-D Wizard](https://www.clarin-d.net/de/aufbereiten/datenmanagementplan-entwickeln)
 
-* geosciences: MOSES DMP tool - prototype under development
+* geosciences: [MOSES DMP tool](https://moses-dmp.gfz-potsdam.de/) - prototype under development
 
-* psychology: DataWiz
+* psychology: [DataWiz](https://datawiz.leibniz-psychology.org/DataWiz/)
 
-* educational research: standardized DMPs (STAMP soon available with RDMO tool or pdf file)
+* educational research: standardized DMPs ([STAMP](https://www.forschungsdaten-bildung.de/stamps-nutzen) soon available with RDMO tool or pdf file)
 ***********
 
 
@@ -608,13 +607,23 @@ ARGOS
 {{0}}
 ***********
 
-<img src="/DMP/images/dmp-image.png">
+<img src="/images/dmp-image.png">
 
 ***********
 
-{{1}}
-***********
-**Common mistakes in DMP writing:**
+### Excercise
+
+**Task**
+
+* view excerpts from DMP (one excerpt per group)
+
+* Discuss the particular example – what do you notice?
+
+**Time: 10 minutes**
+
+
+
+### Common mistakes in DMP writing:
 
 * lack of accuracy
 
@@ -623,11 +632,9 @@ ARGOS
 * terminological inaccuracies
 
 * lack of resource calculation
-***********
 
-{{2}}
-***********
-**DMP checklist**
+
+### DMP checklist
 
 1. Determine the Research Sponsor Requirements
 
@@ -656,7 +663,7 @@ ARGOS
 {{1}}
 ***********
 
-<img src="/DMP/images/cau-services.png" alt="infrastructure" width="200" align="right">
+<img src="/images/cau-services.png" alt="infrastructure" width="200" align="right">
 
 ***********
 
@@ -664,7 +671,7 @@ ARGOS
 ***********
 **Consultation**
 
-<img src="/DMP/images/consultation.png" alt="infrastructure" width="200" align="right">
+<img src="/images/consultation.png" alt="infrastructure" width="200" align="right">
 
 * proposal consulting
 
@@ -684,7 +691,7 @@ ARGOS
 ***********
 **Training & Teaching support**
 
-<img src="/DMP/images/training.png" alt="infrastructure" width="200" align="right">
+<img src="/images/training.png" alt="infrastructure" width="200" align="right">
 
 * workshops
 
@@ -703,7 +710,7 @@ ARGOS
 ***********
 **RDM Infrastructure**
 
-<img src="/DMP/images/infrastructure.png" alt="infrastructure" width="200" align="right">
+<img src="/images/infrastructure.png" alt="infrastructure" width="200" align="right">
 
 * RDM services
 
@@ -717,7 +724,7 @@ ARGOS
 ***********
 **Networking**
 
-<img src="/DMP/images/network.png" alt="networking" width="200" align="right">
+<img src="/images/network.png" alt="networking" width="200" align="right">
 
 * local networking at CAU via AG FDM
 
@@ -733,7 +740,7 @@ ARGOS
 ***********
 **Contact**
 
-<img src="/DMP/images/team.png" alt="team" width="200" align="right">
+<img src="/images/team.png" alt="team" width="200" align="right">
 
 Feel free to contact us:
 
@@ -764,6 +771,6 @@ Schenk, Jasmin & Mühlichen Andreas: „How to write a data management plan?“
 Cologne Competence Center for Research Data Management (C3RDM)
 Universität zu Köln
 
-![img](/DMP/images/c3rdm.png)
+<img src="/images/c3rdm.png">
 
-Thanks a lot for sharing!
+**Thanks a lot for sharing!**
