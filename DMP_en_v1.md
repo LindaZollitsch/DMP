@@ -37,6 +37,16 @@ comment:  This document provides a brief introduction to research data managemen
 
 ### About us
 
+**Instructors**
+
+* Britta Petersen
+
+* Linda Zollitsch
+
+**Institution**
+
+Central Research Data Management
+
 ### Workshop rules
 
 * please don’t do anything by the side
@@ -65,7 +75,7 @@ comment:  This document provides a brief introduction to research data managemen
 
 ### Orientation
 
-<img src="/DMP/images/dmp-image.png">
+<img src="images/dmp-image.png">
 
 
 ### Limitations
@@ -79,7 +89,7 @@ We assume that you are familiar with…
 {{1}}
 ***********
 
-<img src="/DMP/images/rdm-lifecycle.png" alt="infrastructure" width="200" align="right">
+<img src="/images/rdm-lifecycle.png" alt="infrastructure" width="200" align="right">
 
 >You can find some examples of learning resources on RDM basics here:
 >
@@ -103,7 +113,7 @@ We assume that you are familiar with…
 
 ## DMP Statements
 
-<img src="/DMP/images/dmp-image.png">
+<img src="/images/dmp-image.png">
 
 
 ### Statement 1
@@ -155,20 +165,36 @@ DFG-Vordruck 54.01 DE: https://www.dfg.de/formulare/54_01/54_01_de.pdf
 
 DFG form 54.01 EN: https://www.dfg.de/formulare/54_01/54_01_en.pdf
 
+
+<img src="/images/dfg-form.png">
+
 ***********
+
 
 ### Statement 4
 
 >Statement 4: DMPs are sustainable
 
+{{1}}
+***********
+<img src="/images/sustainable1.png">
+
+<img src="/images/ustainable2.png">
+
+***********
 
 ## What is a DMP? Function & Content
 
-<img src="/DMP/images/dmp-image.png">
+<img src="/images/dmp-image.png">
+
+
+{{1}}
+***********
+<img src="/images/dmp-content.png" alt="infrastructure" width="200" align="right">
+
+***********
 
 ### Administrative Data
-
-<img src="DMP/images/dmp-content.png" alt="infrastructure" width="200" align="right">
 
 {{1}}
 ***********
@@ -205,7 +231,6 @@ DFG form 54.01 EN: https://www.dfg.de/formulare/54_01/54_01_en.pdf
 
 * project or institute specific policy on handling research data
 
-
 ***********
 
 ### Data description
@@ -236,6 +261,8 @@ DFG form 54.01 EN: https://www.dfg.de/formulare/54_01/54_01_en.pdf
 
 ### Data documentation & quality control
 
+{{1}}
+***********
 * folder and file naming conventions
 
 * versioning
@@ -248,9 +275,12 @@ DFG form 54.01 EN: https://www.dfg.de/formulare/54_01/54_01_en.pdf
 
 * virtual research environments / databases / ELAB journals
 
+***********
 
 ### Storage & Backup
 
+{{1}}
+***********
 * storage and data sharing during the project
 
 * backup strategy
@@ -259,8 +289,12 @@ DFG form 54.01 EN: https://www.dfg.de/formulare/54_01/54_01_en.pdf
 
 * long-term storage according to GRP
 
+***********
+
 ### Legal aspects
 
+{{1}}
+***********
 * Data protection
 
 * Copyright and rights of use
@@ -269,7 +303,9 @@ DFG form 54.01 EN: https://www.dfg.de/formulare/54_01/54_01_en.pdf
 
 * **But**: currently **no legal advice** by Central Research Data Management!
 
-{{1}}
+***********
+
+{{2}}
 ***********
 
 **Some helpful resources:**
@@ -282,6 +318,8 @@ DFG form 54.01 EN: https://www.dfg.de/formulare/54_01/54_01_en.pdf
 
 ### Data publication
 
+{{1}}
+***********
 * selection of datasets
 
 * name of the (domain-specific) repository
@@ -294,13 +332,12 @@ DFG form 54.01 EN: https://www.dfg.de/formulare/54_01/54_01_en.pdf
 
 * selection of usage licenses
 
-
+***********
 
 ### Responsibilities & Ressources
 
 {{1}}
 ***********
-
 **Who is responsible for RDM?**
 
 * regulation of responsibilities
@@ -317,25 +354,56 @@ DFG form 54.01 EN: https://www.dfg.de/formulare/54_01/54_01_en.pdf
 ***********
 **Budget: What does RDM cost?**
 
-<img src="/DMP/images/budgeting.png" alt="infrastructure" width="200" align="right">
+☞ Budget at least 5% for RDM costs!
+***********
 
+{{3}}
+***********
+<img src="/images/budgeting.png" alt="infrastructure" width="200" align="right">
 
-<img src="/DMP/images/ressources.png" alt="infrastructure" width="200" align="right">
+***********
+
+{{4}}
+***********
+<img src="/images/ressources.png" alt="infrastructure" width="200" align="right">
 
 ***********
 
 ## Who? RDM roles
 
-<img src="/DMP/images/dmp-image.png">
+<img src="/images/dmp-image.png">
 
-<img src="/DMP/images/dmp-roles.png" alt="infrastructure" width="200" align="right">
+{{1}}
+***********
+<img src="/images/dmp-roles.png" alt="infrastructure" width="200" align="right">
 
-<img src="/DMP/images/nfdi.png" alt="infrastructure" width="200" align="right">
+* Data Manager
+
+* RDM-coordinator
+
+* Data Steward
+
+* Data Curator
+
+* Archivists / service provider
+
+* ...
+
+***********
+
+{{2}}
+***********
+<img src="/images/nfdi.png" alt="infrastructure" width="200" align="right">
+
+***********
 
 ## Why? Guidelines & requirements
 
 <img src="/DMP/images/dmp-image.png">
 
+
+{{1}}
+***********
 BMBF: Individual Funding Criteria EC: Aktionsplan FD german only
 
 
@@ -345,6 +413,8 @@ Horizon Europe
 HE Programme Guide, S.40
 
 EC: Open Research Europe. Data Guidelines
+
+***********
 
 
 ### Guidelines (Germany)
