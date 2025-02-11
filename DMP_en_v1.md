@@ -45,7 +45,7 @@ comment:  This document provides a brief introduction to research data managemen
 
 **Institution**
 
-Central Research Data Management
+![Central Research Data Management](https://www.datamanagement.uni-kiel.de/en?set_language=en)
 
 ### Workshop rules
 
@@ -70,7 +70,8 @@ Central Research Data Management
 >
 >Each time you can agree with the statement please stand up.
 >
->That´s it !
+>
+>That's it !
 
 
 ### Orientation
@@ -310,9 +311,9 @@ DFG form 54.01 EN: https://www.dfg.de/formulare/54_01/54_01_en.pdf
 
 **Some helpful resources:**
 
-* Checklist forschungsdaten.info (EN Version Link)
+* Checklist forschungsdaten.info (EN Version [Link](https://www.forschungsdaten.info/praxis-kompakt/english-pages/legal-issues/))
 
-* UK Data Service Platform: Intro to legal aspects of RDM (Link)
+* UK Data Service Platform: Intro to legal aspects of RDM ([Link](https://www.ukdataservice.ac.uk/manage-data/legal-ethical))
 
 ***********
 
@@ -361,11 +362,15 @@ DFG form 54.01 EN: https://www.dfg.de/formulare/54_01/54_01_en.pdf
 ***********
 <img src="/images/budgeting.png" alt="infrastructure" width="200" align="right">
 
+See:. Jasmin Böhmer. (2019, September). UBC RDM Workshop 1 - Data Management Planning (Version V2). Zenodo. http://doi.org/10.5281/zenodo.3469953 
+
 ***********
 
 {{4}}
 ***********
 <img src="/images/ressources.png" alt="infrastructure" width="200" align="right">
+
+Adopted from.: Soßna, Volker: Wie lassen sich die Kosten für das Forschungsdatenmanagement abschätzen? Folien des Service-Teams Forschungsdaten der UH / TIB, Dezember 2018. Illustrations by Jørgen Stamp. CC BY 2.5 Denmark license www.digitalbevaring.dk
 
 ***********
 
@@ -395,6 +400,8 @@ DFG form 54.01 EN: https://www.dfg.de/formulare/54_01/54_01_en.pdf
 ***********
 <img src="/images/nfdi.png" alt="infrastructure" width="200" align="right">
 
+Official NFDI website: https://www.nfdi.de/?lang=en
+
 ***********
 
 ## Why? Guidelines & requirements
@@ -404,7 +411,7 @@ DFG form 54.01 EN: https://www.dfg.de/formulare/54_01/54_01_en.pdf
 
 {{1}}
 ***********
-BMBF: Individual Funding Criteria EC: Aktionsplan FD german only
+BMBF: Individual Funding Criteria EC: [Aktionsplan FD](https://www.bmbf.de/de/aktionsplan-forschungsdaten-12553.html) german only
 
 
 Horizon Europe
@@ -550,12 +557,19 @@ FAIR-checklist: Jones, Sarah, & Grootveld, Marjan. (2017, November). How FAIR ar
 
 <img src="/images/science-europe.jpg" alt="infrastructure" width="200" align="right">
 
+Science Europe Template & Practical Guide https://www.scienceeurope.org/our-priorities/research-data/research-data-management/ 
+
 ***********
 
 {{7}}
 ***********
 
 <img src="/images/horizon-europe.png" alt="infrastructure" width="200" align="right">
+
+Usually linked in the EU Funding & tenders portal.
+Alternative LINKs: 
+https://fdm.uni-koeln.de/sites/FDM-UzK/Templates/data-management-plan-template_he_en-2.docx 
+https://enspire.science/wp-content/uploads/2021/09/Horizon-Europe-Data-Management-Plan-Template.pdf 
 
 ***********
 
@@ -601,6 +615,42 @@ ARGOS
 >
 > **Time: 10 minutes**
 
+### Example 1
+
+{{0}}
+***********
+<img src="/images/example1.png">
+***********
+
+{{1}}
+***********
+<img src="/images/solution1.png">
+***********
+
+### Example 2
+
+{{0}}
+***********
+<img src="/images/example2.png">
+***********
+
+{{1}}
+***********
+<img src="/images/solution2.png">
+***********
+
+### Example 3
+
+{{0}}
+***********
+<img src="/images/example3.png">
+***********
+
+{{1}}
+***********
+<img src="/images/solution3.png">
+***********
+
 
 ## Do's & Don'ts
 
@@ -610,16 +660,6 @@ ARGOS
 <img src="/images/dmp-image.png">
 
 ***********
-
-### Excercise
-
-**Task**
-
-* view excerpts from DMP (one excerpt per group)
-
-* Discuss the particular example – what do you notice?
-
-**Time: 10 minutes**
 
 
 
@@ -654,7 +694,11 @@ ARGOS
 
 9. Assign Roles and Responsibilities
 
-10. Prepare a Realistic Budget
+10. **Prepare a Realistic Budget**
+
+Michener WK (2015) Ten Simple Rules for Creating a Good Data Management Plan. PLoS Comput Biol 11(10): e1004525. 
+https://doi.org/10.1371/journal.pcbi.1004525 
+
 ***********
 
 
@@ -664,6 +708,10 @@ ARGOS
 ***********
 
 <img src="/images/cau-services.png" alt="infrastructure" width="200" align="right">
+
+website: https://www.datamanagement.uni-kiel.de/en?set_language=en 
+
+e-mail: info@fdm.uni-kiel.de  
 
 ***********
 
@@ -726,9 +774,9 @@ ARGOS
 
 <img src="/images/network.png" alt="networking" width="200" align="right">
 
-* local networking at CAU via AG FDM
+* local networking at CAU via [AG FDM](https://www.datamanagement.uni-kiel.de/en/networking?set_language=en)
 
-* regional networking via FDM-SH
+* regional networking via [FDM-SH](https://fdm-sh.de/)
 
 * active networking in different relevant national working groups (e. g. NFDI, DINI/nesor AG Forschungsdaten, GoFAIR)
 
@@ -763,12 +811,19 @@ zollitsch@ub-uni-kiel.de
 
 ***********
 
+**Zentrales Forschungsdatenmanagement**
+
+https://fdm.uni-kiel.de
+info@fdm.uni-kiel.de 
+
+***********
+
 ## Acknowledgement
 
 This workshop material is fully based on 
 
 Schenk, Jasmin & Mühlichen Andreas: „How to write a data management plan?“
-Cologne Competence Center for Research Data Management (C3RDM)
+[Cologne Competence Center for Research Data Management (C3RDM)](https://fdm.uni-koeln.de/home)
 Universität zu Köln
 
 <img src="/images/c3rdm.png">
