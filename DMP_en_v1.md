@@ -45,7 +45,7 @@ comment:  This document provides a brief introduction to research data managemen
 
 **Institution**
 
-![Central Research Data Management](https://www.datamanagement.uni-kiel.de/en?set_language=en)
+[Central Research Data Management](https://www.datamanagement.uni-kiel.de/en?set_language=en)
 
 ### Workshop rules
 
