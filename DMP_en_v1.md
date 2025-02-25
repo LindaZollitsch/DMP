@@ -29,7 +29,7 @@ comment:  This document provides a brief introduction to research data managemen
 >
 > If you have questions, please contact us: [Central Research Data Management](https://www.datamanagement.uni-kiel.de/de)
 >
-> This work is licenced under CCBY (https://creativecommons.org/licenses/by/4.0/)
+> This work is licenced under CC-BY (https://creativecommons.org/licenses/by/4.0/)
 
 <div style="page-break-after: always;"></div>
 
@@ -42,6 +42,8 @@ comment:  This document provides a brief introduction to research data managemen
 * Britta Petersen
 
 * Linda Zollitsch
+
+-----
 
 **Institution**
 
@@ -77,6 +79,7 @@ comment:  This document provides a brief introduction to research data managemen
 ### Orientation
 
 <img src="images/dmp-image.png">
+![DMP](/images/dmp-image.png)
 
 
 ### Limitations
