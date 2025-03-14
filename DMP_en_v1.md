@@ -10,7 +10,7 @@ language: en
 
 narrator: UK English Female
 
-icon:     ./images/Logo_cau-norm-de-lilagrey-rgb-0720_2022.png
+icon:     https://www.uni-kiel.de/ps/cgi-bin/logos/files/cau/norm-en/cau-norm-en-blacklila-rgb-0720.png
 
 link: https://raw.githubusercontent.com/RDM4CAU/Intro-to-RDM/refs/heads/main/cau-style.css
 
@@ -35,34 +35,48 @@ comment:  This document provides a brief introduction to research data managemen
 
 ## Introduction
 
+<div style="background-color: lightblue;padding: 25px">
+![Plan](/DMP/images/dmp-roles.png)
+</div>
+
 ### About us
 
-**Instructors**
+<div style="width: 20%; float:right">
+![Plan](/DMP/images/dmp-roles.png)
+</div>
 
-* Britta Petersen
-
-* Linda Zollitsch
-
------
+<article>
+<br>
+## Instructors
+- Britta Petersen
+- Linda Zollitsch
+\
 
 **Institution**
 
 [Central Research Data Management](https://www.datamanagement.uni-kiel.de/en?set_language=en)
+</article>
 
 ### Workshop rules
 
-* please don’t do anything by the side
+<div style="width: 20%; float:right">
+![Plan](/DMP/images/dmp-roles.png)
+</div>
 
-* participate actively
+We hope that together we can create a pleasant, respectful working atmosphere!
+---
 
-* let us know, when you have questions
+- please don’t do anything by the side
 
-* let each other finish when talking
+- participate actively
 
-* help each other
+- let us know, when you have questions
 
-* allow mistakes
+- let each other finish when talking
 
+- help each other
+
+- allow mistakes
 
 ### Warm up
 
@@ -75,25 +89,24 @@ comment:  This document provides a brief introduction to research data managemen
 >
 >That's it !
 
-
 ### Orientation
-
-<img src="images/dmp-image.png">
-![DMP](/images/dmp-image.png)
-
+\
+\
+![](/DMP/images/orientation.png)
 
 ### Limitations
 
-We assume that you are familiar with… 
+<img src="/DMP/images/rdm-lifecycle.png" alt="rdm-lifecycle" width="500" align="right">
 
-* the most important terms and
-
-* the basic concept of research data management
+>We assume that you are familiar with… 
+>
+>* the most important terms and
+>
+>* the basic concept of research data management
 
 {{1}}
 ***********
 
-<img src="/images/rdm-lifecycle.png" alt="infrastructure" width="200" align="right">
 
 >You can find some examples of learning resources on RDM basics here:
 >
@@ -103,98 +116,121 @@ We assume that you are familiar with…
 
 ***********
 
-
 ### Learning Objectives
 
-* benefits and components DMP
+<img src="/DMP/images/target.png" alt="target" width="500" align="right">
 
-* DMP templates and tools
+We hope after the workshop participants...
+---
 
-* phrasing of DMP components
+* ...can name benefits and components of a DMP.
 
-* CAU support services
+* ...can name DMP templates and tools.
 
+* ...can name do´s and dont´s regarding the phrasing of DMP components.
+
+* ...can name relevant CAU support services.
+
+* ...have discussed and exchanged with peers.
 
 ## DMP Statements
 
-<img src="/images/dmp-image.png">
-
+![](/DMP/images/orientation.png)
 
 ### Statement 1
 
->Statement 1: DMPs save time
+<div style="background-color: lightblue;padding: 25px">
+DMPs save time!
+---
+</div>
+<br>
 
 {{1}}
 ***********
 
-"Early planning is half the battle won!“
-
-* responsibilities defined
-
-* uniform conventions established
-
-* conflicts avoided
-
-*  data loss prevented
+>"Early planning is half the battle won!“
+>
+>* responsibilities defined
+>
+>* uniform conventions established
+>
+>* conflicts avoided
+>
+>* data loss prevented
 
 ***********
 
 ### Statement 2
 
->Statement 2: DMPs save money
+<div style="background-color: lightblue;padding: 25px">
+DMPs save money!
+---
+</div>
+<br>
 
 {{1}}
 ***********
 
-Initial effort pays off!
-
-* targeted deployment of resources
-
-* acquire specific RDM resources
-
-* budget external services
+>Initial effort pays off!
+>
+>* targeted deployment of resources
+>
+>* acquire specific RDM resources
+>
+>* budget external services
 
 ***********
 
 ### Statement 3
 
->Statement 3: DMPs become mandatory
+<div style="background-color: lightblue;padding: 25px">
+DMPs become mandatory!
+---
+</div>
+<br>
 
 {{1}}
 ***********
+>**It is true! :-)**
+>
+>EU: Open Research Europe. Data Guidelines: https://open-research-europe.ec.europa.eu/for-authors/data-guidelines
+>
+>DFG-Vordruck 54.01 DE: https://www.dfg.de/formulare/54_01/54_01_de.pdf
+>
+>DFG form 54.01 EN: https://www.dfg.de/formulare/54_01/54_01_en.pdf
 
-EU: Open Research Europe. Data Guidelines: https://open-research-europe.ec.europa.eu/for-authors/data-guidelines
-
-DFG-Vordruck 54.01 DE: https://www.dfg.de/formulare/54_01/54_01_de.pdf
-
-DFG form 54.01 EN: https://www.dfg.de/formulare/54_01/54_01_en.pdf
-
-
-<img src="/images/dfg-form.png">
+![](/DMP/images/EUguidelines.png)
 
 ***********
-
 
 ### Statement 4
 
->Statement 4: DMPs are sustainable
+<div style="background-color: lightblue;padding: 25px">
+DMPs are sustainable!
+---
+</div>
+<br>
 
 {{1}}
 ***********
-<img src="/images/sustainable1.png">
+A DMP contains valuable preparatory work for further requirements (ethics application, contracts) and supports subsequent communication with service providers as a kind of results catalog (e.g., for data transfer to repositories or for writing data availability statements for journals).
 
-<img src="/images/ustainable2.png">
+
+![](/DMP/images/journals_data-availability1.png)
+![](/DMP/images/journals_data-availability2.png)
 
 ***********
 
 ## What is a DMP? Function & Content
 
-<img src="/images/dmp-image.png">
-
-
-{{1}}
+{{0-1}}
 ***********
-<img src="/images/dmp-content.png" alt="infrastructure" width="200" align="right">
+![](/DMP/images/orientation.png)
+***********
+
+{{1-2}}
+***********
+![](/DMP/images/dmp-content.png)
 
 ***********
 
@@ -305,7 +341,7 @@ DFG form 54.01 EN: https://www.dfg.de/formulare/54_01/54_01_en.pdf
 
 * Licensing law, patent law, etc.
 
-* **But**: currently **no legal advice** by Central Research Data Management!
+>* **But**: currently **no legal advice** by Central Research Data Management! :-(
 
 ***********
 
@@ -340,7 +376,7 @@ DFG form 54.01 EN: https://www.dfg.de/formulare/54_01/54_01_en.pdf
 
 ### Responsibilities & Ressources
 
-{{1}}
+{{1-2}}
 ***********
 **Who is responsible for RDM?**
 
@@ -354,16 +390,16 @@ DFG form 54.01 EN: https://www.dfg.de/formulare/54_01/54_01_en.pdf
 
 ***********
 
-{{2}}
+{{2-3}}
 ***********
 **Budget: What does RDM cost?**
 
 ☞ Budget at least 5% for RDM costs!
 ***********
 
-{{3}}
+{{3-4}}
 ***********
-<img src="/images/budgeting.png" alt="infrastructure" width="200" align="right">
+![](/DMP/images/budgeting.png)
 
 See:. Jasmin Böhmer. (2019, September). UBC RDM Workshop 1 - Data Management Planning (Version V2). Zenodo. http://doi.org/10.5281/zenodo.3469953 
 
@@ -371,7 +407,7 @@ See:. Jasmin Böhmer. (2019, September). UBC RDM Workshop 1 - Data Management Pl
 
 {{4}}
 ***********
-<img src="/images/ressources.png" alt="infrastructure" width="200" align="right">
+![](/DMP/images/ressources.png)
 
 Adopted from.: Soßna, Volker: Wie lassen sich die Kosten für das Forschungsdatenmanagement abschätzen? Folien des Service-Teams Forschungsdaten der UH / TIB, Dezember 2018. Illustrations by Jørgen Stamp. CC BY 2.5 Denmark license www.digitalbevaring.dk
 
@@ -379,11 +415,16 @@ Adopted from.: Soßna, Volker: Wie lassen sich die Kosten für das Forschungsdat
 
 ## Who? RDM roles
 
-<img src="/images/dmp-image.png">
-
-{{1}}
+{{0-1}}
 ***********
-<img src="/images/dmp-roles.png" alt="infrastructure" width="200" align="right">
+![](DMP/images/orientation.png)
+***********
+
+{{1-2}}
+***********
+<div style="width: 20%; float:right">
+![Plan](/DMP/images/dmp-roles.png)
+</div>
 
 * Data Manager
 
@@ -395,58 +436,43 @@ Adopted from.: Soßna, Volker: Wie lassen sich die Kosten für das Forschungsdat
 
 * Archivists / service provider
 
+* Researchers
+
 * ...
 
 ***********
 
 {{2}}
 ***********
-<img src="/images/nfdi.png" alt="infrastructure" width="200" align="right">
+
+![](/DMP/images/nfdi.png)
+![](/DMP/images/nfdi_consortia.png)
 
 Official NFDI website: https://www.nfdi.de/?lang=en
 
 ***********
 
 ## Why? Guidelines & requirements
-
-<img src="/DMP/images/dmp-image.png">
-
+{{0-1}}
+***********
+![](/DMP/images/orientation.png)
+***********
 
 {{1}}
 ***********
 BMBF: Individual Funding Criteria EC: [Aktionsplan FD](https://www.bmbf.de/de/aktionsplan-forschungsdaten-12553.html) german only
 
-
 Horizon Europe
 [HE Programme Guide, S.40](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf)
-
 
 [EC: Open Research Europe. Data Guidelines](https://open-research-europe.ec.europa.eu/for-authors/data-guidelines)
 
 ***********
 
-
 ### Guidelines (Germany)
 
-{{1}}
-***********
-
-**Kiel University:**
-
-* [Guideline on the handling of research data](https://www.praesidium.uni-kiel.de/de/dokumente/leitlinie-zum-umgang-mit-forschungsdaten-guideline-on-research-data-management-english)
-
-* [Guideline Good Scientific Practice](https://www.uni-kiel.de/fileadmin/user_upload/forschung/integritaet-ethik/downloads/cau-guidelines-good-scientific-practice.pdf)
-
-* [Example for a project specific guideline: CRC 1461 – Research Data Management Guide](https://www.tf.uni-kiel.de/crc1461rdm/)
-
-* [Subject specific guidelines: DFG-overview](https://www.dfg.de/en/research_funding/proposal_review_decision/applicants/research_data/index.html)
-
-***********
-
-{{2}}
-***********
-
-**DFG:**
+DFG Guidelines
+---
 
 * [Guidelines for Safeguarding Good Research Practice. Code of Conduct.](http://doi.org/10.5281/zenodo.3923602)
 
@@ -454,14 +480,10 @@ Horizon Europe
 
 * [Subject-Specific Recommendations (DFG-overview)](https://www.dfg.de/en/research_funding/proposal_review_decision/applicants/research_data/index.html#anker62237395)
 
-***********
 
 ### Guidelines (International)
 
-
 * [European Code of Conduct for Research Integrity](https://allea.org/wp-content/uploads/2023/06/European-Code-of-Conduct-Revised-Edition-2023.pdf)
-
-
 
 * Research Integrity Statements
 
@@ -469,14 +491,35 @@ Horizon Europe
 
 * [Singapore Statement](https://www.wcrif.org/statement)
 
+### Guidelines (Kiel University)
+{{0}}
+***********
+What about relevant guidelines at Kiel University?
+---
+***********
+
+{{1}}
+***********
+**Kiel University:**
+
+* [Guideline on the handling of research data](https://www.praesidium.uni-kiel.de/de/dokumente/leitlinie-zum-umgang-mit-forschungsdaten-guideline-on-research-data-management-english)
+
+* [Guideline Good Scientific Practice](https://www.uni-kiel.de/fileadmin/user_upload/forschung/integritaet-ethik/downloads/cau-guidelines-good-scientific-practice.pdf)
+
+* [Example for a project specific guideline: CRC 1461 Research Data Management Guide](https://www.tf.uni-kiel.de/crc1461rdm/)
+
+**********
 
 ### FAIR Principles
 
-<img src="/images/fair.png">
+{{1}}
+***********
 
-FAIR concentrates on how to prepare data in a sustainable way that it can be found and used by others. 
+![](/DMP/images/fair.png)
 
-Research data are **FAIR** if they are made 
+FAIR concentrates on how to prepare data in a sustainable way that it can be found and used by others.
+
+Research data are **FAIR** if they are made
 
 - findable,
 
@@ -486,18 +529,30 @@ Research data are **FAIR** if they are made
 
 - and reusable.
 
-
 FAIR-checklist: Jones, Sarah, & Grootveld, Marjan. (2017, November). How FAIR are your data?. Zenodo. http://doi.org/10.5281/zenodo.3405141 
 
+*******
 
 ## How? Templates & Tools
 
-<img src="/images/dmp-image.png">
+![](/DMP/images/orientation.png)
 
 ### DMP templates
-
-{{1}}
+{{0-1}}
 ***********
+<div style="width: 20%; float:right">
+![working](/DMP/images/working.png)
+</div>
+
+> **So, how to start...? Use templates!**
+
+***********
+
+{{1-3}}
+***********
+<div style="width: 20%; float:right">
+![working](/DMP/images/working.png)
+</div>
 
 **Templates**
 
@@ -513,9 +568,10 @@ FAIR-checklist: Jones, Sarah, & Grootveld, Marjan. (2017, November). How FAIR ar
 
 ***********
 
-{{2}}
+{{2-3}}
 ***********
-**Samples**
+
+**Examples**
 
 * [DFG Sample (CMS / HU Berlin)](https://cms.hu-berlin.de/de/ueberblick/projekte/dataman/muster-dmp-dfg)
 
@@ -525,12 +581,12 @@ FAIR-checklist: Jones, Sarah, & Grootveld, Marjan. (2017, November). How FAIR ar
 
 ***********
 
-{{3}}
+{{3-4}}
 ***********
 
 **Based on the Research Data Lifecycle**
 
-<img src="/images/rdm-lifecycle.png" alt="infrastructure" width="200" align="right">
+<img src="/DMP/images/rdm-lifecycle.png" alt="rdm-lifecycle" width="500" align="right">
 
 * [DFG Checklist](https://www.dfg.de/download/pdf/foerderung/grundlagen_dfg_foerderung/forschungsdaten/forschungsdaten_checkliste_de.pdf)
 
@@ -538,27 +594,27 @@ FAIR-checklist: Jones, Sarah, & Grootveld, Marjan. (2017, November). How FAIR ar
 
 ***********
 
-{{4}}
+{{4-5}}
 ***********
 **Based on the FAIR-Principles**
 
-<img src="/images/fair.png" alt="infrastructure" width="200" align="right">
+<img src="/DMP/images/fair.png" alt="rdm-lifecycle" width="500" align="right">
 
 * [EU Horizon Europe-Template](https://fdm.uni-koeln.de/sites/FDM-UzK/Templates/data-management-plan-template_he_en-2.docx)
 
 ***********
 
-{{5}}
+{{5-6}}
 ***********
 
-<img src="/images/cau-template.png" alt="infrastructure" width="200" align="right">
+![](/DMP/images/cau-template.png)
 
 ***********
 
-{{6}}
+{{6-7}}
 ***********
 
-<img src="/images/science-europe.jpg" alt="infrastructure" width="200" align="right">
+![](/DMP/images/science-europe.jpg)
 
 Science Europe Template & Practical Guide https://www.scienceeurope.org/our-priorities/research-data/research-data-management/ 
 
@@ -567,7 +623,7 @@ Science Europe Template & Practical Guide https://www.scienceeurope.org/our-prio
 {{7}}
 ***********
 
-<img src="/images/horizon-europe.png" alt="infrastructure" width="200" align="right">
+![](/DMP/images/horizon-europe.png)
 
 Usually linked in the EU Funding & tenders portal.
 Alternative LINKs: 
@@ -582,13 +638,15 @@ https://enspire.science/wp-content/uploads/2021/09/Horizon-Europe-Data-Managemen
 ***********
 **Generic DMP-Tools**
 
+<div style="width: 20%; float:right">
+![working](/DMP/images/working.png)
+</div>
+
 [Research Data Management Organizer (RDMO) - DFG-funded](https://rdmorganiser.github.io/)
 
 [DMPonline - Digital Curation Centre (DDC), hosted by University of Edinburgh](https://dmponline.dcc.ac.uk/)
 
 [DMP Tool - California Digital Library](https://dmptool.org/)
-
-ARGOS
 
 ***********
 
@@ -607,12 +665,15 @@ ARGOS
 * educational research: standardized DMPs ([STAMP](https://www.forschungsdaten-bildung.de/stamps-nutzen) soon available with RDMO tool or pdf file)
 ***********
 
-
 ## Excercise
+
+<div style="width: 20%; float:right">
+![working](/DMP/images/working.png)
+</div>
 
 **Task**
 
->view excerpts from DMP(one excerpt per group)
+>Review excerpts from DMPs (one excerpt per group)
 >
 >Discuss the particular example – what do you notice?
 >
@@ -622,36 +683,36 @@ ARGOS
 
 {{0}}
 ***********
-<img src="/images/example1.png">
+![](/DMP/images/example1.png)
 ***********
 
 {{1}}
 ***********
-<img src="/images/solution1.png">
+![](/DMP/images/solution1.png)
 ***********
 
 ### Example 2
 
 {{0}}
 ***********
-<img src="/images/example2.png">
+![](/DMP/images/example2.png)
 ***********
 
 {{1}}
 ***********
-<img src="/images/solution2.png">
+![](/DMP/images/solution2.png)
 ***********
 
 ### Example 3
 
 {{0}}
 ***********
-<img src="/images/example3.png">
+![](/DMP/images/example3.png)
 ***********
 
 {{1}}
 ***********
-<img src="/images/solution3.png">
+![](/DMP/images/solution3.png)
 ***********
 
 
@@ -659,12 +720,9 @@ ARGOS
 
 {{0}}
 ***********
-
-<img src="/images/dmp-image.png">
+![](/DMP/images/orientation.png)
 
 ***********
-
-
 
 ### Common mistakes in DMP writing:
 
@@ -675,7 +733,6 @@ ARGOS
 * terminological inaccuracies
 
 * lack of resource calculation
-
 
 ### DMP checklist
 
@@ -702,15 +759,15 @@ ARGOS
 Michener WK (2015) Ten Simple Rules for Creating a Good Data Management Plan. PLoS Comput Biol 11(10): e1004525. 
 https://doi.org/10.1371/journal.pcbi.1004525 
 
-***********
-
 
 ## CAU Services
 
-{{1}}
+{{0-1}}
 ***********
 
-<img src="/images/cau-services.png" alt="infrastructure" width="200" align="right">
+<div style="width: 50%; float:right">
+![services](/DMP/images/cau-services.png)
+</div>
 
 website: https://www.datamanagement.uni-kiel.de/en?set_language=en 
 
@@ -718,11 +775,13 @@ e-mail: info@fdm.uni-kiel.de
 
 ***********
 
-{{2}}
+{{1-2}}
 ***********
 **Consultation**
 
-<img src="/images/consultation.png" alt="infrastructure" width="200" align="right">
+<div style="width: 20%; float:right">
+![working](/DMP/images/consultation.png)
+</div>
 
 * proposal consulting
 
@@ -737,12 +796,13 @@ e-mail: info@fdm.uni-kiel.de
 * assistance with data publication
 ***********
 
-
-{{3}}
+{{2-3}}
 ***********
 **Training & Teaching support**
 
-<img src="/images/training.png" alt="infrastructure" width="200" align="right">
+<div style="width: 20%; float:right">
+![working](/DMP/images/training.png)
+</div>
 
 * workshops
 
@@ -752,16 +812,16 @@ e-mail: info@fdm.uni-kiel.de
  * general RDM basics
  * Specialization, e.g. Introduction to Git (on demand)
 
-
 * teaching support on demand
 ***********
 
-
-{{4}}
+{{3-4}}
 ***********
 **RDM Infrastructure**
 
-<img src="/images/infrastructure.png" alt="infrastructure" width="200" align="right">
+<div style="width: 20%; float:right">
+![working](/DMP/images/infrastructure.png)
+</div>
 
 * RDM services
 
@@ -771,11 +831,13 @@ e-mail: info@fdm.uni-kiel.de
 ***********
 
 
-{{5}}
+{{4-5}}
 ***********
 **Networking**
 
-<img src="/images/network.png" alt="networking" width="200" align="right">
+<div style="width: 20%; float:right">
+![working](/DMP/images/networking.png)
+</div>
 
 * local networking at CAU via [AG FDM](https://www.datamanagement.uni-kiel.de/en/networking?set_language=en)
 
@@ -786,38 +848,31 @@ e-mail: info@fdm.uni-kiel.de
 * International networking: e. g. RDA
 ***********
 
-
-{{6}}
+{{5-6}}
 ***********
 **Contact**
 
-<img src="/images/team.png" alt="team" width="200" align="right">
+<div style="width: 20%; float:right">
+![team](/DMP/images/team.png)
+</div>
 
 Feel free to contact us:
 
-Consulting:
+>**DMP Consulting:**
+>
+>Thilo Paul-Stüwe
+>paul-stueve@rz.uni-kiel.de
+>
+>Andreas Christ
+>christ@ub.uni-kiel.de 
 
-Thilo Paul-Stüwe
-paul-stueve@rz.uni-kiel.de
-
-Andreas Christ
-christ@ub.uni-kiel.de 
-
-
-Workshops & teaching support:
-
-Britta Petersen
-b.petersen@rz.uni-kiel.de 
-
-Linda Zollisch 
-zollitsch@ub-uni-kiel.de
-
-***********
-
-**Zentrales Forschungsdatenmanagement**
-
-https://fdm.uni-kiel.de
-info@fdm.uni-kiel.de 
+>**Workshops & teaching support:**
+>
+>Britta Petersen
+>b.petersen@rz.uni-kiel.de 
+>
+>Linda Zollisch 
+>zollitsch@ub-uni-kiel.de
 
 ***********
 
@@ -825,10 +880,13 @@ info@fdm.uni-kiel.de
 
 This workshop material is fully based on 
 
+<div style="width: 20%; float:right">
+![crrdmlogo](/DMP/images/c3rdm.png)
+</div>
+
 Schenk, Jasmin & Mühlichen Andreas: „How to write a data management plan?“
 [Cologne Competence Center for Research Data Management (C3RDM)](https://fdm.uni-koeln.de/home)
 Universität zu Köln
 
-<img src="/images/c3rdm.png">
-
-**Thanks a lot for sharing!**
+Thanks a lot for sharing! 🥰
+---
