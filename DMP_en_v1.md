@@ -881,7 +881,7 @@ Feel free to contact us:
 This workshop material is fully based on 
 
 <div style="width: 20%; float:right">
-![crrdmlogo](/DMP/images/c3rdm.png)
+![crrdmlogo](./images/c3rdm.png)
 </div>
 
 Schenk, Jasmin & Mühlichen Andreas: „How to write a data management plan?“
